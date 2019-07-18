@@ -1,0 +1,15 @@
+{
+    "name": "Batman",
+    "powerstats": {
+      "intelligence": "100",
+      "strength": "26",
+      "power": "47",
+      "combat": "100"
+    },
+    "biography": {
+      "fullName": "Bruce Wayne",
+      "place-of-birth": "Crest Hill, Bristol Township; Gotham County",
+      "publisher": "DC Comics",
+      "alignment": "good"
+    }
+}

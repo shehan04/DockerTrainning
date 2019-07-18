@@ -1,0 +1,20 @@
+{
+    "avengers":[
+        { 
+            "name": "Iron Man",
+            "weapon": "IronMan Armour",
+            "origin": "Earth"
+        },
+        { 
+            "name": "Captain America",
+            "weapon": "Shield",
+            "origin": "Earth"
+        },
+        { 
+            "name": "Thor",
+            "weapon": "Hammer",
+            "origin": "Asguard"
+        }
+
+    ]
+}
